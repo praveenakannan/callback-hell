@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/A_still_of_Red_Fort%2C_during_the_62nd_Independence_Day_celebrations%2C_in_Delhi_on_August_15%2C_2008.jpg/800px-A_still_of_Red_Fort%2C_during_the_62nd_Independence_Day_celebrations%2C_in_Delhi_on_August_15%2C_2008.jpg);
+    background-color: antiquewhite;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    margin: 100px auto;
+    padding: 25px 50px;
+}
+
+#block{
+    background-color: rgb(95, 254, 21);
+    margin: 200px 100px;
+    border: 5px solid red;
+}
